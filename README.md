@@ -42,3 +42,14 @@ EDA involved exploring the Road accident data to answer key questions, such as:
 This was done on MYSQL
 
 This include some functions used to analyze
+
+
+###  Results/Finding
+1.  The total number of casualties is 417883
+2.  Slight casualties make us 84.1% of the total casualties.
+3.  There are just 7135 fatal casualties, which is 1.7% of the total casualties.
+4.  There were more casualties in 2021, than in 2022.
+5.  There are more casualties in the urban areas than in the rural areas.
+6.  There are more casualties during the day than at dark.
+7.  Dry road surafces have the most accidents in terms of road surfaces.
+
