@@ -8,7 +8,7 @@
 - [Data Collection and Data Cleaning](#data-collection-and-data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results/Finding](#results/finding)
+- [Results/Finding](#results-finding)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
