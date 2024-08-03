@@ -86,7 +86,11 @@ select count(Vehicle_Type) from road_accident_database where Vehicle_Type = 'Car
 
 ### Limitations
 - I had to remove all zero values from age column because they would have affected the accuracy of my conclusions from the analysis.
--    
+- Feature Selection
+- Data Availability and Quality
+- Unobserved Heterogeneity
+- Risk Compensation
+  
 
 
 
