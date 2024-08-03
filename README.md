@@ -8,7 +8,7 @@
 - [Data Collection and Data Cleaning](#data-collection-and-data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results/Finding](#results-finding)
+- [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
@@ -59,7 +59,7 @@ This was done on MYSQL
 This include some functions used to analyze
 
 
-###  Results/Finding
+###  Results and Findings
 1.  The total number of casualties is 417883
 2.  Slight casualties make us 84.1% of the total casualties.
 3.  There are just 7135 fatal casualties, which is 1.7% of the total casualties.
