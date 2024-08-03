@@ -60,6 +60,9 @@ This include some functions used to analyze
 ```MySQL
 select count(Accident_Severity) from road_accident_database where Accident_Severity = 'Serious'
 ```
+```MySQL
+select count(Vehicle_Type) from road_accident_database where Vehicle_Type = 'Car'
+```
 
 ###  Results and Findings
 1.  The total number of casualties is 417883
