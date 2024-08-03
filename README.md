@@ -2,15 +2,15 @@
 
 ### Table of Content
 
--[Project Overiew](#project-overview)
--[Data Source](#data-source)
--[Tools](#tools)
--[Data Collection and Data Cleaning](#data-collection-and-data-cleaning)
--[Exploratory Data Analysis](#exploratory-data-analysis)
--[Data Analysis](#data-analysis)
--[Results/Finding](#results/finding)
--[Recommendations](#recommendations)
--[Limitations](#limitations)
+- [Project Overiew](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Collection and Data Cleaning](#data-collection-and-data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Finding](#results/finding)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 
 ### Project Overview
