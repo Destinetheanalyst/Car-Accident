@@ -1,8 +1,22 @@
 # Car-Accident
 
+### Table of Content
+-[Project Overiew](#project-overview)
+-[Data Source](#data-source)
+-[Tools](#tools)
+-[Data Collection and Data Cleaning](#data-collection-and-data-cleaning)
+-[Exploratory Data Analysis](#exploratory-data-analysis)
+-[Data Analysis](#data-analysis)
+-[Results/Finding](#results/finding)
+-[Recommendations](#recommendations)
+-[Limitations](#limitations)
+
+
 ### Project Overview
 
 The primary goal of this project is to analyze car accident data to identify patterns, trends, and contributing factors. The insights gained can help improve road safety, inform policy decisions, and reduce the frequency and severity of accidents.
+
+![Excel](https://github.com/user-attachments/assets/b147571b-61d6-4c91-9a66-d3e5f5bf4f79)
 
 ### Data Source
 
@@ -65,7 +79,8 @@ This include some functions used to analyze
 9.  Mandating periodic vehicle inspections is vital to ensure that all vehicles on the road meet safety standards and are roadworthy.
 
 ### Limitations
--   
+- I had to remove all zero values from age column because they would have affected the accuracy of my conclusions from the analysis.
+-    
 
 
 
