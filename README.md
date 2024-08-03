@@ -57,7 +57,9 @@ EDA involved exploring the Road accident data to answer key questions, such as:
 This was done on MYSQL
 
 This include some functions used to analyze
-
+```MySQL
+select count(Accident_Severity) from road_accident_database where Accident_Severity = 'Serious'
+```
 
 ###  Results and Findings
 1.  The total number of casualties is 417883
