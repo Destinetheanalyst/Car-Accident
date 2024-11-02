@@ -12,7 +12,6 @@
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
-
 ### Project Overview
 
 The primary goal of this project is to analyze car accident data to identify patterns, trends, and contributing factors. The insights gained can help improve road safety, inform policy decisions, and reduce the frequency and severity of accidents.
