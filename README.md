@@ -1,4 +1,4 @@
-# Car-Accident
+# Crash Data Analysis: Road Incidents Uncovered
 
 ### Table of Content
 
@@ -14,7 +14,7 @@
 
 ### Project Overview
 
-The primary goal of this project is to analyze car accident data to identify patterns, trends, and contributing factors. The insights gained can help improve road safety, inform policy decisions, and reduce the frequency and severity of accidents.
+To analyze crash data to identify key factors contributing to road incidents, uncover patterns and high-risk situations, and provide actionable insights that support data-driven road safety strategies and accident prevention measures
 
 ![Excel](https://github.com/user-attachments/assets/b147571b-61d6-4c91-9a66-d3e5f5bf4f79)
 
